@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dikshantyadav19@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dikshantyadav19@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Dikshant%20Yadav-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dikshantyadav19/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@DikshantYadav2-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=DikshantYadav2 "Follow on Twitter")
+[![Hashnode Badge](https://img.shields.io/badge/-dikshantyadav19.hashnode.dev-00acee?style=flat&logo=Hashnode&logoColor=white&color=grey)](https://dikshantyadav19.hashnode.dev/ "Follow on Hashnode")
 
 ## Some of my Github Public Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=DikshantYadav19&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/DikshantYadav19) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DikshantYadav19&hide=TeX&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&align=right)
